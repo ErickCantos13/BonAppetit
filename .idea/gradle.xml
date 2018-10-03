@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AccelerometerExample" />
+            <option value="$PROJECT_DIR$/BonApetite" />
+            <option value="$PROJECT_DIR$/BonApetite2" />
+            <option value="$PROJECT_DIR$/DynamicView" />
+            <option value="$PROJECT_DIR$/Erick" />
+            <option value="$PROJECT_DIR$/Ericklab1" />
+            <option value="$PROJECT_DIR$/FrameLayout" />
+            <option value="$PROJECT_DIR$/LinearLayoutExample1" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app2" />
+            <option value="$PROJECT_DIR$/radiobuttonexercise" />
+            <option value="$PROJECT_DIR$/stylesandthemes" />
+            <option value="$PROJECT_DIR$/textclock" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

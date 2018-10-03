@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Erick</string>
+    <string name="help_string">Help</string>
+    <string name="info_string">info</string>
+    <string name="name_string">Erick</string>
+    <string name="activity_string">Activity</string>
+    <string name="camera_string">Camera</string>
+    <string name="title_ErickActivity">Assignment 1</string>
+    <string name="toast_string">The Toaster</string>
+    <string name="dialButton_string">Make A Call</string>
+    <string name="fullName_string">Erick Cantos</string>
+    <string name="studentID_string">N01068423</string>
+    <string name="messageButton_string">Message</string>
+    <string name="homeScreenButton_string">Home</string>
+    <string name="activity2_string">Erick2Activity</string>
+    <string name="contentDescription">content description</string>
+    <string name="contentDescription2">content description 2</string>
+</resources>

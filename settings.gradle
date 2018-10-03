@@ -1,0 +1,2 @@
+include ':app', ':textclock', ':DynamicView', ':AccelerometerExample', ':Ericklab1', ':app2', ':BonApetite', ':FrameLayout', ':LinearLayoutExample1', ':radiobuttonexercise', ':stylesandthemes', ':BonApetite2'
+include 'Erick'
