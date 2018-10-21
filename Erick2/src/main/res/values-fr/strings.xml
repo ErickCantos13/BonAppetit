@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ErickAssign2</string>
+    <string name="help_string">help</string>
+    <string name="pizza_string">Pizza</string>
+    <string name="firstname_string">Erick</string>
+    <string name="select_string">Choose one:</string>string>
+</resources>

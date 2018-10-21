@@ -3,7 +3,7 @@
     package="erick.cantos">
 
     <uses-permission android:name="android.permission.CAMERA" />
-    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <uses-permission android:name="android.permission.CALL_PHONE" />
 
     <application
         android:allowBackup="true"
@@ -12,30 +12,27 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-
         <activity android:name=".ErickActivity">
-
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
         </activity>
         <!-- android:configChanges... is for landscape layout with alternate xml -->
-        <activity android:name=".Erick2Activity"
+        <activity
+            android:name=".Erick2Activity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
             android:label="@string/name_string"
-            android:parentActivityName=".ErickActivity"
-            android:configChanges="keyboardHidden|orientation|screenSize">
+            android:parentActivityName=".ErickActivity">
 
-
-            <!--	Specify	the	parent	Activity - UP ARROW FUNCTIONALITY-->
+            <!-- Specify	the	parent	Activity - UP ARROW FUNCTIONALITY -->
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".ErickActivity"	/>
+                android:value=".ErickActivity" />
         </activity>
-
-
+        <activity android:name=".ErickActivity3" />
+        <activity android:name=".ErickActivity4"></activity>
     </application>
 
 </manifest>

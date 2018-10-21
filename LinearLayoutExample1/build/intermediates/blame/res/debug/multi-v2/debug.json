@@ -50,25 +50,6 @@
             "outputFile": "C:\\Users\\Owner123\\AndroidStudioProjects\\MyFirstApp\\MyApplication2\\LinearLayoutExample1\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\Owner123\\.gradle\\caches\\transforms-1\\files-1.1\\gridlayout-v7-26.0.0-alpha1.aar\\202b1676e96fcc2d7561f3bfe3bf8eb9\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,15,46",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,681,2249",
-                        "endLines": "14,45,46",
-                        "endColumns": "136,35,42",
-                        "endOffsets": "676,2244,2287"
-                    },
-                    "to": {
-                        "startLines": "2,15,48",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,681,2363",
-                        "endLines": "14,45,48",
-                        "endColumns": "136,35,42",
-                        "endOffsets": "676,2244,2401"
-                    }
-                },
-                {
                     "source": "C:\\Users\\Owner123\\AndroidStudioProjects\\MyFirstApp\\MyApplication2\\LinearLayoutExample1\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "6,15",
@@ -85,6 +66,25 @@
                         "endLines": "62,65",
                         "endColumns": "12,12",
                         "endOffsets": "3015,3175"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Owner123\\.gradle\\caches\\transforms-1\\files-1.1\\gridlayout-v7-26.0.0-alpha1.aar\\6042998574b80c9327e15e6c8a39e810\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,15,46",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,681,2249",
+                        "endLines": "14,45,46",
+                        "endColumns": "136,35,42",
+                        "endOffsets": "676,2244,2287"
+                    },
+                    "to": {
+                        "startLines": "2,15,48",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,681,2363",
+                        "endLines": "14,45,48",
+                        "endColumns": "136,35,42",
+                        "endOffsets": "676,2244,2401"
                     }
                 },
                 {

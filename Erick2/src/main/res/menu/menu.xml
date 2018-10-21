@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".ErickActivity1">
+
+    <item
+        style="@style/AppTheme"
+        android:id="@+id/help"
+        app:showAsAction="never"
+        android:title="@string/help_string"
+
+        android:orderInCategory="1"></item>
+    <item
+        style="@style/AppTheme"
+        android:id="@+id/pizza"
+        android:title="@string/pizza_string"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="3"></item>
+    <item
+        style="@style/AppTheme"
+        android:id="@+id/name"
+        android:title="@string/firstname_string"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="2"></item>
+
+</menu>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Bon Appetit</string>
+    <string name="emailHint_string">Email</string>
+    <string name="passwordHint_string">Password</string>
+    <string name="loginButton_string">Log In</string>
+    <string name="signupButton_string">Register</string>
+    <string name="or_string">or</string>
+    <string name="forgetPassword_string">Forgot your password?</string>
+    <string name="createAccount_string">Create an Account</string>
+    <string name="firstname_string">First Name</string>
+    <string name="lastname_string">Last Name</string>
+    <string name="email_string">Email Address *</string>
+    <string name="password_string">Password *</string>
+    <string name="confirmPassword_string">Confirm password *</string>
+    <string name="submit_string">Submit</string>
+    <string name="registrationCheckbox_string">Email me product updates, offers, and newsletters</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
