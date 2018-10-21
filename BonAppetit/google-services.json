@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "187677111618",
+    "firebase_url": "https://bon-apetit-24278.firebaseio.com",
+    "project_id": "bon-apetit-24278",
+    "storage_bucket": "bon-apetit-24278.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187677111618:android:6ae57f5cb3c9660e",
+        "android_client_info": {
+          "package_name": "ca.humber.bonappetit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187677111618-599ui6bajpqauvvh1bj15babkdiorqh0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ca.humber.bonappetit",
+            "certificate_hash": "09c4b7ef0cd08e260c36caae537781e4f09ab14b"
+          }
+        },
+        {
+          "client_id": "187677111618-60t4qtpi9lbqvgtecjd0ii8sq2o1lan5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7II6h48VS73zRphgNCeMFJhb-mbzTlxM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187677111618-60t4qtpi9lbqvgtecjd0ii8sq2o1lan5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
