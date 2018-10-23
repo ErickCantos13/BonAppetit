@@ -1,3 +1,7 @@
+/**
+ *  Application: Bon Appetit
+ *  Team Name: Team Slavick
+ */
 package ca.humber.bonappetit;
 
 import android.content.Context;
