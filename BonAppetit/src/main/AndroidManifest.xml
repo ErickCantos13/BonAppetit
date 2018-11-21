@@ -28,7 +28,10 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".loginActivity" />
         </activity>
-        <activity android:name=".menuActivity"></activity>
+        <activity
+            android:name=".menuActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity android:name=".recipeActivity"></activity>
     </application>
 
 </manifest>

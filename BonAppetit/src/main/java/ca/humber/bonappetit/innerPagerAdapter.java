@@ -8,11 +8,11 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
-public class pagerAdapter extends FragmentPagerAdapter {
+public class innerPagerAdapter extends FragmentPagerAdapter {
 
     int numberOfTabs;
 
-    public pagerAdapter(FragmentManager fm, int NumOfTabs) {
+    public innerPagerAdapter(FragmentManager fm, int NumOfTabs) {
         super(fm);
         this.numberOfTabs = NumOfTabs;
     }
@@ -21,11 +21,17 @@ public class pagerAdapter extends FragmentPagerAdapter {
     public Fragment getItem(int position) {
         switch (position) {
             case 0:
-                foodTab tab1 = new foodTab();
+                vegetableTab tab1 = new vegetableTab();
                 return tab1;
             case 1:
-                favouritesTab tab2 = new favouritesTab();
+                dairyTab tab2 = new dairyTab();
                 return tab2;
+            case 2:
+                grainTab tab3 = new grainTab();
+                return tab3;
+            case 3:
+                proteinTab tab4 = new proteinTab();
+                return tab4;
             default:
                 return null;
         }

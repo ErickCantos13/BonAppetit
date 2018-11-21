@@ -15,6 +15,51 @@
     <string name="submit_string">Submit</string>
     <string name="registrationCheckbox_string">Email me product updates, offers, and newsletters</string>
 
+    <!-- TODO:ADD ITEMS FOR LIST VIEW -->
+    <!-- VEGETABLES LIST -->
+    <string-array name="array_vegetables">
+        <item>Lettuce</item>
+        <item>Carrots</item>
+        <item>Lemons</item>
+        <item>Onions</item>
+        <item>Tomatoes</item>
+        <item>Potatoes</item>
+        <item>Cauliflower</item>
+    </string-array>
+    <!-- DAIRY LIST -->
+    <string-array name="array_dairy">
+        <item>Milk</item>
+        <item>Butter</item>
+        <item>Cheese</item>
+        <item>Icecream</item>
+        <item>Eggs</item>
+    </string-array>
+    <!-- GRAIN LIST -->
+    <string-array name="array_grain">
+        <item>Bread</item>
+        <item>Wheat</item>
+        <item>Flour</item>
+        <item>Oatmeal</item>
+        <item>Pasta</item>
+        <item>Rice</item>
+    </string-array>
+    <!-- PROTEIN LIST -->
+    <string-array name="array_protein">
+        <item>Chicken</item>
+        <item>Beef</item>
+        <item>Lamb</item>
+        <item>Fish</item>
+        <item>Tofu</item>
+        <item>Pork</item>
+    </string-array>
+
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="selectFromList">Select items from list</string>
+    <string name="dairy">Dairy</string>
+    <string name="confirm">Ready!</string>
+    <string name="vegetables">Vegetables</string>
+    <string name="grain">Grain</string>
+    <string name="protein">Protein</string>
+
 </resources>

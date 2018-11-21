@@ -4,9 +4,9 @@ ADDED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\MyApplication2\Lin
 INJECTED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\MyApplication2\LinearLayoutExample1\src\main\AndroidManifest.xml:2:1-27:12
 INJECTED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\MyApplication2\LinearLayoutExample1\src\main\AndroidManifest.xml:2:1-27:12
 INJECTED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\MyApplication2\LinearLayoutExample1\src\main\AndroidManifest.xml:2:1-27:12
-MERGED from [com.android.support:gridlayout-v7:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.0.0-alpha1.aar\6042998574b80c9327e15e6c8a39e810\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\dd9777785796abdca80115645fbd789c\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\0901fc5ffe9bf792b2c92d99409e9172\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:gridlayout-v7:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.0.0-alpha1.aar\7ca303ef0c503dd507bd3675ad7cbcfe\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\6184d77b8a2654d30c772acb611183b0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\d5d562dae728c0533a0b22339951f1cf\AndroidManifest.xml:17:1-31:12
 INJECTED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\MyApplication2\LinearLayoutExample1\src\main\AndroidManifest.xml:2:1-27:12
 INJECTED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\MyApplication2\LinearLayoutExample1\src\main\AndroidManifest.xml:2:1-27:12
 INJECTED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\MyApplication2\LinearLayoutExample1\src\main\AndroidManifest.xml:2:1-27:12
@@ -28,16 +28,16 @@ uses-sdk
 ADDED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\MyApplication2\LinearLayoutExample1\src\main\AndroidManifest.xml:7:5-9:41
 INJECTED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\MyApplication2\LinearLayoutExample1\src\main\AndroidManifest.xml:7:5-9:41
 INJECTED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\MyApplication2\LinearLayoutExample1\src\main\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:gridlayout-v7:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.0.0-alpha1.aar\6042998574b80c9327e15e6c8a39e810\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:gridlayout-v7:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.0.0-alpha1.aar\6042998574b80c9327e15e6c8a39e810\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\dd9777785796abdca80115645fbd789c\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\dd9777785796abdca80115645fbd789c\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\0901fc5ffe9bf792b2c92d99409e9172\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\0901fc5ffe9bf792b2c92d99409e9172\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:gridlayout-v7:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.0.0-alpha1.aar\7ca303ef0c503dd507bd3675ad7cbcfe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.0.0-alpha1.aar\7ca303ef0c503dd507bd3675ad7cbcfe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\6184d77b8a2654d30c772acb611183b0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\6184d77b8a2654d30c772acb611183b0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\d5d562dae728c0533a0b22339951f1cf\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\d5d562dae728c0533a0b22339951f1cf\AndroidManifest.xml:21:5-23:58
 INJECTED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\MyApplication2\LinearLayoutExample1\src\main\AndroidManifest.xml:7:5-9:41
 INJECTED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\MyApplication2\LinearLayoutExample1\src\main\AndroidManifest.xml:7:5-9:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\dd9777785796abdca80115645fbd789c\AndroidManifest.xml:23:9-55
+		ADDED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\6184d77b8a2654d30c772acb611183b0\AndroidManifest.xml:23:9-55
 	android:targetSdkVersion
 		ADDED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\MyApplication2\LinearLayoutExample1\src\main\AndroidManifest.xml:9:9-38
 		INJECTED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\MyApplication2\LinearLayoutExample1\src\main\AndroidManifest.xml
@@ -48,12 +48,12 @@ INJECTED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\MyApplication2\
 		INJECTED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\MyApplication2\LinearLayoutExample1\src\main\AndroidManifest.xml
 application
 ADDED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\MyApplication2\LinearLayoutExample1\src\main\AndroidManifest.xml:11:5-25:19
-MERGED from [com.android.support:gridlayout-v7:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.0.0-alpha1.aar\6042998574b80c9327e15e6c8a39e810\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:gridlayout-v7:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.0.0-alpha1.aar\6042998574b80c9327e15e6c8a39e810\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\dd9777785796abdca80115645fbd789c\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\dd9777785796abdca80115645fbd789c\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\0901fc5ffe9bf792b2c92d99409e9172\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\0901fc5ffe9bf792b2c92d99409e9172\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:gridlayout-v7:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.0.0-alpha1.aar\7ca303ef0c503dd507bd3675ad7cbcfe\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:gridlayout-v7:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.0.0-alpha1.aar\7ca303ef0c503dd507bd3675ad7cbcfe\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\6184d77b8a2654d30c772acb611183b0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\6184d77b8a2654d30c772acb611183b0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\d5d562dae728c0533a0b22339951f1cf\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\d5d562dae728c0533a0b22339951f1cf\AndroidManifest.xml:29:5-20
 	android:label
 		ADDED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\MyApplication2\LinearLayoutExample1\src\main\AndroidManifest.xml:14:9-41
 	android:icon
@@ -79,12 +79,12 @@ ADDED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\MyApplication2\Lin
 	android:name
 		ADDED from C:\Users\Owner123\AndroidStudioProjects\MyFirstApp\MyApplication2\LinearLayoutExample1\src\main\AndroidManifest.xml:22:27-74
 meta-data#android.support.VERSION
-ADDED from [com.android.support:gridlayout-v7:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.0.0-alpha1.aar\6042998574b80c9327e15e6c8a39e810\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\dd9777785796abdca80115645fbd789c\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\dd9777785796abdca80115645fbd789c\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\0901fc5ffe9bf792b2c92d99409e9172\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\0901fc5ffe9bf792b2c92d99409e9172\AndroidManifest.xml:25:5-27:41
+ADDED from [com.android.support:gridlayout-v7:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.0.0-alpha1.aar\7ca303ef0c503dd507bd3675ad7cbcfe\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\6184d77b8a2654d30c772acb611183b0\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\6184d77b8a2654d30c772acb611183b0\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\d5d562dae728c0533a0b22339951f1cf\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\d5d562dae728c0533a0b22339951f1cf\AndroidManifest.xml:25:5-27:41
 	android:value
-		ADDED from [com.android.support:gridlayout-v7:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.0.0-alpha1.aar\6042998574b80c9327e15e6c8a39e810\AndroidManifest.xml:24:9-38
+		ADDED from [com.android.support:gridlayout-v7:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.0.0-alpha1.aar\7ca303ef0c503dd507bd3675ad7cbcfe\AndroidManifest.xml:24:9-38
 	android:name
-		ADDED from [com.android.support:gridlayout-v7:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.0.0-alpha1.aar\6042998574b80c9327e15e6c8a39e810\AndroidManifest.xml:23:9-47
+		ADDED from [com.android.support:gridlayout-v7:26.0.0-alpha1] C:\Users\Owner123\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-26.0.0-alpha1.aar\7ca303ef0c503dd507bd3675ad7cbcfe\AndroidManifest.xml:23:9-47
